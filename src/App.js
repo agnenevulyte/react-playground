@@ -4,6 +4,8 @@ import Header from './components/Logo/logo.js';
 import { ReactComponent as LogoSVG } from './components/MySVGLogo/mySVG.svg';
 import './App.scss';
 
+// 1st commit, new repo.
+
 function App() {
   return (
     <div className="App">
