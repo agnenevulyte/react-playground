@@ -1,6 +1,7 @@
 import React from 'react';
 import Button from './components/Button/button.js';
 import Header from './components/Logo/logo.js';
+import DangerButton from './components/DangerButton/DangerButton.js';
 import { ReactComponent as LogoSVG } from './components/MySVGLogo/mySVG.svg';
 import './App.scss';
 
@@ -19,6 +20,9 @@ function App() {
       <div className="mySVGDiv">
         <LogoSVG />
       </div>
+
+      {/* Importing DangerButton */}
+      <DangerButton />
     </div>
   );
 }
