@@ -5,8 +5,7 @@ import DangerButton from 'components/DangerButton/DangerButton.js';
 import { ReactComponent as LogoSVG } from 'components/MySVGLogo/mySVG.svg';
 import './App.scss';
 
-// 1st commit, new repo.
-
+// @flow
 function App() {
   return (
     <div className="App">
