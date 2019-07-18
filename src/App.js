@@ -1,8 +1,8 @@
 import React from 'react';
-import Button from './components/Button/button.js';
-import Header from './components/Logo/logo.js';
-import DangerButton from './components/DangerButton/DangerButton.js';
-import { ReactComponent as LogoSVG } from './components/MySVGLogo/mySVG.svg';
+import Button from 'components/Button/button.js';
+import Header from 'components/Logo/logo.js';
+import DangerButton from 'components/DangerButton/DangerButton.js';
+import { ReactComponent as LogoSVG } from 'components/MySVGLogo/mySVG.svg';
 import './App.scss';
 
 // 1st commit, new repo.

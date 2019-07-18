@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Button from '../Button/button.js'; // Import a component from another file
+import Button from 'components/Button/button.js'; // Import a component from another file
 
 class DangerButton extends Component {
   render() {
